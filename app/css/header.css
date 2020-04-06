@@ -1,0 +1,27 @@
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  background-color: #000000; }
+
+.logo {
+  padding-top: 20px;
+  padding-left: 150px; }
+
+.menu {
+  font-weight: 500;
+  padding: 10px 100px; }
+
+.menu_li {
+  margin-right: 50px;
+  color: #b0b0b0; }
+
+.menu_li:hover {
+  color: #fdab70; }
+
+ul,
+li,
+a {
+  display: inline-block;
+  text-decoration: none; }
